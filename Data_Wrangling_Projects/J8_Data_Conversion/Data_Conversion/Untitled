@@ -1,0 +1,4 @@
+# To interact with web service
+from zeep import Client
+
+wsdl = "http://www.dneonline.com/calculator.asmx?WSDL"

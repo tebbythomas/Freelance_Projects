@@ -1,0 +1,10 @@
+<DOC>
+<DATE> Nov 29 1994 07:59 </DATE>
+<HL> 曇り空 </HL>
+<TEXT>
+<p>
+空は曇り
+<p>
+川は洪水です
+</TEXT>
+</DOC>

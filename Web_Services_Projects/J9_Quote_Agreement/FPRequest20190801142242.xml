@@ -1,0 +1,54 @@
+<FinanceProImport>
+	<Quote>
+		<QuoteNumber>
+			<![CDATA[AOR3333]]>
+		</QuoteNumber>
+		<User>
+			<LoginName>TebbyBeGood</LoginName>
+			<LoginPassword>Begoodbegoodbegoodbegood(PleaseBeNicE)##</LoginPassword>
+		</User>
+		<CalculateQuote>1</CalculateQuote>
+		<ReturnCalculatedValues>1</ReturnCalculatedValues>
+		<DeleteExisting>1</DeleteExisting>
+		<Agent>
+			<AgentSearchCode>018208</AgentSearchCode>
+		</Agent>
+		<Insured>
+			<Name>
+				<![CDATA[kathy test d.b.a. alarm security corp]]>
+			</Name>
+			<Address1>
+				<![CDATA[Po Box 1]]>
+			</Address1>
+			<City>
+				<![CDATA[Houston]]>
+			</City>
+			<State>
+				<![CDATA[TX]]>
+			</State>
+			<Zip>
+				<![CDATA[77056]]>
+			</Zip>
+			<Phone>
+				<![CDATA[-]]>
+			</Phone>
+		</Insured>
+		<Renewal>0</Renewal>
+		<AccountType>1</AccountType>
+		<Policy>
+			<GeneralAgentSearchCode>
+				<![CDATA[DELTA]]>
+			</GeneralAgentSearchCode>
+			<InsuranceCompanySearchCode>381</InsuranceCompanySearchCode>
+			<InceptionDate>9/01/2019</InceptionDate>
+			<ExpirationDate>9/01/2020</ExpirationDate>
+			<PolicyNumber>
+				<![CDATA[TBD]]>
+			</PolicyNumber>
+			<CoverageType>GENERAL LIABILITY - ARTISAN</CoverageType>
+			<GrossPremium>5048</GrossPremium>
+			<PolicyFee>200</PolicyFee>
+			<TaxStampFee>262.4</TaxStampFee>
+		</Policy>
+	</Quote>
+</FinanceProImport>

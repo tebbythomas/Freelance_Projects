@@ -1,0 +1,20 @@
+<DOC>
+<DATE> September 10 2017 02:45 </DATE>
+<HL> 経済は落ち込んでいます </HL>
+<TEXT>
+<p>
+それはその国にとって良い時期ではありません。
+<p>
+コミュニティは彼を愛している
+</TEXT>
+</DOC>
+
+# Take the folder and create multiple folders
+# Ensure we are not in an unknown state
+# Creates .tar file
+# Extracts all the data
+# Parse each "SGML" doc
+# There are multiple root elements per file
+# Either it has paragraph children
+# Or it is text itself, for which we only replace single newlines
+# Concatenate all docs into a single raw.txt.gz
