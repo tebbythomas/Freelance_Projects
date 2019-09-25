@@ -25,8 +25,8 @@ The following details scraped were from multiple URLs:</b>
 <b>Screenshots:</b>
 <br />
 <br />
-<img src="https://github.com/tebbythomas/Freelance_Projects/tree/master/Web_Data_Extraction_Projects/J5_Truck_Project_Scraper/Screenshots/Screenshot_DMV.png" height="275" hspace="20">
+<a href="https://github.com/tebbythomas/Freelance_Projects/tree/master/Web_Data_Extraction_Projects/J5_Truck_Project_Scraper/Screenshots/Screenshot_DMV.png"/>
 <br />
 <br />
-<img src="https://github.com/tebbythomas/Freelance_Projects/tree/master/Web_Data_Extraction_Projects/J5_Truck_Project_Scraper/Screenshots/Screenshot.png" height="275" hspace="20">
+<a href="https://github.com/tebbythomas/Freelance_Projects/tree/master/Web_Data_Extraction_Projects/J5_Truck_Project_Scraper/Screenshots/Screenshot.png"/>
 </p>
