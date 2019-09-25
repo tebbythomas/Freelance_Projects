@@ -8,9 +8,7 @@ More specifically, the project involved completing the 7 steps of ORM conceptual
 Another aspect also involved <b>designing the relational database schema from the conceptual schema of a university</b>.
 <br />
 <br />
-Screenshots:
-<br />
-<b>ORM Schema</b>
+<b>ORM Schema Screenshot</b>
 <br />
 <img src="https://github.com/tebbythomas/Freelance_Projects/tree/master/Database_Projects/J12_DB_ORM_ConceptualSchema/Screenshots/DB-ORM-Schema.png" hspace="20">
 </p>
