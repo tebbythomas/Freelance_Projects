@@ -9,7 +9,7 @@ The projects are primarily the contracts I've completed on <b>Upwork</b>
 <b>
 My full Upwork profile:
 <br />
-https://www.upwork.com/freelancers/~01ffb805d6d2ec1cd2
+<a href="https://www.upwork.com/freelancers/~01ffb805d6d2ec1cd2" target="_blank">Profile</a>
 </b>
 <br />
 <br />
