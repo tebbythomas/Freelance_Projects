@@ -10,5 +10,5 @@ Another aspect also involved <b>designing the relational database schema from th
 <br />
 <b>ORM Schema Screenshot</b>
 <br />
-<img src="https://github.com/tebbythomas/Freelance_Projects/tree/master/Database_Projects/J12_DB_ORM_ConceptualSchema/Screenshots/DB-ORM-Schema.png" hspace="20">
+<a href="https://github.com/tebbythomas/Freelance_Projects/tree/master/Database_Projects/J12_DB_ORM_ConceptualSchema/Screenshots/DB-ORM-Schema.png"><Image</a>
 </p>
